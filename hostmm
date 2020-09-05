@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Hostmm</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+        integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+        crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+        integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="hostmm.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <p class="col-sm-12 col-md-2" style="color: black;">HOSTMM.TECH&nbsp;&nbsp;|</p>
+            <p class="col-sm-4 col-md-2" style="color: black;">PORTFOLIO</p>
+            <p class="col-sm-4 col-md-2" style="color: black;">ABOUT US</p>
+            <P class="col-sm-4 col-md-1" style="color: black;">CONTACT</P>
+            <P class="col-sm-0 col-md-5" style="color: black;">COURSES</P>
+        </div>
+    </div>
+    
+    
+    <div class="header">
+        <div class="container">
+            <div class="row">
+                <p class=" col-sm-12 col-md-4" style="font-size: 30px; color: black;"><b>HOST</b></p>
+                <p class=" col-sm-12 col-md-4" style="font-size: 30px; color: black;"><b>MYANMAR</b></p>
+                <p class=" col-sm-12 col-md-4" style="font-size: 30px; color: black;"><b>(MANDALAY)</b></p>
+
+            </div>
+            <div class="col-lg-12">
+                <p class="sty; col-sm-12 col-md-12" style="font-size: 30px; color: black;"><b>TECH SPACE</b></p>
+            </div>
+            <div class="col-lg-12">
+                <p class="sty; col-sm-12 col-md-12" style="font-size: 10px; color: black;"><b>Lorem ipsum dolor sit
+                        amet, consectetur adipisicing elit. Veniam quis amet accusamus fugit impedit atque velit. Magni
+                        nobis qui, dicta tempora, fuga iste ipsam a, ab sit rerum maiores. Dicta?</b></p>
+
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div style="border: 2px solid white; color: black; padding: 20px; background-color: blanchedalmond;" class="col-sm-12 col-md-3 column">
+                COURSES
+            </div>
+            <div style="border: 2px solid white; color: black; padding: 20px; background-color: blanchedalmond;" class="col-sm-12 col-md-6 column">
+                PORTFOLIO
+            </div>
+            <div style="border: 2px solid white; color: black; padding: 20px; background-color: blanchedalmond;" class="col-sm-12 col-md-3 column">
+                HOSTMM
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div style="border: 2px solid white; color: black; padding: 20px; background-color: blanchedalmond;" class="col-sm-12 col-md-6 column">
+                YOURUBE CHANNEL
+            </div>
+            <div style="border: 2px solid white; color: black; padding: 20px; background-color: blanchedalmond;" class="col-sm-12 col-md-3 column">
+                ABOUT
+            </div>
+            <div style="border: 2px solid white; color: black; padding: 20px; background-color: blanchedalmond;" class="col-sm-12 col-md-3 column">
+                CONTACT
+            </div>
+        </div>
+    </div>
+    <div>
+        <div class="container">
+            <div class="row">
+                <div style=" color:white; padding: 20px; background-color: #171717;" class="col-sm-6 col-md-5 column">
+                    HOME
+                </div>
+                <div style="  padding: 20px; background-color: #171717;" class="col-sm-6 col-md-7 column">
+                    <i class="fa fa-facebook" aria-hidden="true" style="color: white; text-align: right;"></i>
+                </div>
+                
+                <div style=" color:white; padding: 20px; background-color: #171717;" class="col-sm-6 col-md-5 column">
+                    COURSES
+                </div>
+                <div style="  padding: 20px; background-color: #171717;" class="col-sm-6 col-md-7 column">
+                    <i class="fa fa-youtube-play" aria-hidden="true" style="color: white; text-align: right;"></i>
+                </div>
+                <div style=" color:white; padding: 20px; background-color: #171717;" class="col-sm-6 col-md-5 column">
+                    PORTFOLIO
+                </div>
+                <div style="  padding: 20px; background-color: #171717;" class="col-sm-6 col-md-7 column">
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                </div>
+                <div style=" color:white; padding: 20px; background-color: #171717; text-align: center;" class="col-sm-6 col-md-5 column">
+                    ABOUT US
+                </div>
+                <div style=" color:white; padding: 20px; background-color: #171717;" class="col-sm-6 col-md-7 column">
+                    
+                </div>
+                <div style=" color:white; padding: 20px; background-color: #171717; text-align: center;" class="col-sm-6 col-md-5 column">
+                    CONTACT
+                </div>
+                <div style=" color:white; padding: 20px; background-color: #171717;" class="col-sm-6 col-md-7 column">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</body>
+
+</html>
+<!--
+
+    
+.container{
+    position: relative;
+    text-align: center;
+    color:white;
+}
+
+.header{
+    background-image: url(https://s3.amazonaws.com/pas-wordpress-media/content/uploads/2014/07/08132212/bigstock-Travel-Photographer-Taking-A-P-302170048-min-653x300.jpg);
+    width: 100%;
+    height: 300px;
+    background-position: center;
+    
+    background-size: cover;
+}
+.sty{
+    font-size: 30px;
+    font-weight: 300;
+    color: black;
+    
+}
+-->
